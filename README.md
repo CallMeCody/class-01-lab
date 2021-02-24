@@ -4,4 +4,4 @@
 [Github Actions](https://github.com/CallMeCody/server-deployment-practice/actions)\
 [Pull Request](https://github.com/CallMeCody/server-deployment-practice/pull/5)
 
-Basic server that exports server start options into index.js
+Basic server that exports server start options into index.js. Run the server with "node index.js"
